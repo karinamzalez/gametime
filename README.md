@@ -19,7 +19,7 @@ Example Game Play:
 ### How to Run
 Clone
 ```
-git clone git@github.com:chompasina/gametime.git
+git clone git@github.com:karinamzalez/gametime.git
 ```
 
 To install the dependencies:
